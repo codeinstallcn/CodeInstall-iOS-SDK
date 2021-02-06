@@ -12,7 +12,6 @@
 /// 唤醒时获取h5页面动态参数（如果是渠道链接，渠道编号会一起返回）
 /// @param appData 动态参数对象
 - (void)getWakeUpParams:(CodeInstallData *_Nullable)appData;
-
 @end
 
 
