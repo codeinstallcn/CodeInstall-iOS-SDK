@@ -41,7 +41,7 @@
 /// 注册量统计并获取统计结果
 /// @param completionHandler 统计注册量成功时的回调
 /// @param failedHandler 统计注册量失败时的回调
-+ (void)reportRegisterCompleted:(void (^_Nullable)(void))completionHandler failed:(void (^_Nonnull)(void))failedHandler;
++ (void)reportRegisterCompleted:(void (^_Nullable)(void))completionHandler failed:(void (^_Nullable)(void))failedHandler;
 
 
 /// 处理 URI schemes
