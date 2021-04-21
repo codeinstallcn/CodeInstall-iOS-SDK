@@ -1,5 +1,5 @@
 # CodeInstallSDK
-详细文档访问 https://www.codeinstall.cn
+详细文档访问 https://www.codeinstall.com
 
 1、cd到项目根目录，执行pod setup
 
