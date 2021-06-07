@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'CodeInstallSDK'
-  s.version          = '1.2.0'
+  s.version          = '1.3.0'
   s.summary          = 'CodeInstallSDK'
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
